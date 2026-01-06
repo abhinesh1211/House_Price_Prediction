@@ -1,0 +1,16 @@
+Area	Bedrooms	Bathrooms	Location	Price
+800	2	1	Urban	450000
+900	2	1	Urban	480000
+1000	3	2	Urban	600000
+1100	3	2	Suburban	650000
+1200	3	2	Suburban	700000
+1300	3	2	Urban	750000
+1400	4	3	Suburban	820000
+1500	4	3	Rural	780000
+1600	4	3	Urban	900000
+1700	4	3	Urban	950000
+1800	5	4	Suburban	1100000
+2000	5	4	Urban	1300000
+2200	6	5	Urban	1500000
+2500	6	5	Suburban	1650000
+3000	7	6	Urban	2000000
